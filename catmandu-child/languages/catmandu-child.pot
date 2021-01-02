@@ -1,0 +1,109 @@
+# Copyright (C) 2020 CodeManas
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Catmandu Child 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/catmandu-child\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-09-29T10:09:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: catmandu-child\n"
+
+#. Theme Name of the theme
+msgid "Catmandu Child"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://www.codemanas.com/downloads/catmandu-child/"
+msgstr ""
+
+#. Description of the theme
+msgid "Catmandu Child is clean, responsive, modern and feature rich multi-purpose Business WordPress theme. It is suitable for business, portfolio, digital agencies and general corporate website. It is designed with great attention to details, flexibility and performance thus looks stunning on all types of screens and devices. Catmandu comes with creative and well-organized sections and very extensible and secure code. It is designed and developed paying careful attention to detail, to bring you a clean, modern and crisp design with the kinds of useful web elements that help make your website stand out from the crowd."
+msgstr ""
+
+#. Author of the theme
+msgid "CodeManas"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.codemanas.com/"
+msgstr ""
+
+#: functions.php:165
+#: functions.php:190
+#: functions.php:316
+msgid "Showcases"
+msgstr ""
+
+#: functions.php:173
+msgid "Center"
+msgstr ""
+
+#: functions.php:202
+msgid "Header layout"
+msgstr ""
+
+#: functions.php:206
+msgid "Header 1"
+msgstr ""
+
+#: functions.php:207
+msgid "Header 2"
+msgstr ""
+
+#: functions.php:215
+msgid "Top header background"
+msgstr ""
+
+#: functions.php:219
+msgid "Dark"
+msgstr ""
+
+#: functions.php:220
+msgid "Light"
+msgstr ""
+
+#: functions.php:231
+msgid "Theme Color"
+msgstr ""
+
+#: functions.php:260
+msgid "Enable Showcases ?"
+msgstr ""
+
+#: functions.php:269
+msgid "Title"
+msgstr ""
+
+#: functions.php:286
+msgid "Button text"
+msgstr ""
+
+#: functions.php:303
+msgid "Button link"
+msgstr ""
+
+#: functions.php:311
+msgid "Post showcase:"
+msgstr ""
+
+#: functions.php:321
+msgid "Add showcase"
+msgstr ""
+
+#: functions.php:327
+msgid "Post"
+msgstr ""
+
+#: functions.php:361
+msgid "Let's Make Something Great together."
+msgstr ""
+
+#: functions.php:362
+msgid "Know More"
+msgstr ""

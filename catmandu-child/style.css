@@ -1,0 +1,131 @@
+/*
+Theme Name:     Catmandu Child
+Theme URI:      https://www.codemanas.com/downloads/catmandu-child/
+Author: CodeManas
+Author URI: https://www.codemanas.com/
+Text Domain: catmandu-child
+Template:       catmandu
+Version: 1.0.2
+Requires at least: 5.1
+Tested up to: 5.4
+Requires PHP: 5.6
+Description: Catmandu Child is clean, responsive, modern and feature rich business WordPress theme. It is suitable for business, portfolio, digital agencies and general corporate website. It is designed with great attention to details, flexibility and performance thus looks stunning on all types of screens and devices. Catmandu Child comes with creative and well-organized sections and very extensible and secure code.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: grid-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo ,custom-menu, featured-images ,footer-widgets, theme-options, translation-ready, blog, news, e-commerce
+
+
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+*/
+
+
+
+#tophead.light {
+    background: #f1f1f1;
+}
+
+#tophead.light #quick-contact a,
+#tophead.light #quick-contact li,
+#tophead.light .social-links li a::before {
+    color: #000000;
+}
+
+.section-featured-slider .overlay-enabled article::after {
+    opacity: 0.4;
+}
+
+#menu-item-30474>a{
+	font-family: 'Alata';
+    font-size: 25px;
+}
+
+#menu-histoire{
+	line-height:35px;
+}
+
+.entry-thumb.aligncenter{
+	display:none;
+}
+
+.anr_captcha_field {
+	text-align: -webkit-center;
+}
+
+@media only screen and (max-width: 767px) {
+	#mobile-trigger-close {
+		position: fixed;
+    width: 100%;
+    background-color: rgb(155, 193, 188);
+		z-index:1000;
+		top:0
+	}
+	#header-right {
+	display:none;
+	}
+	.site-branding {
+		margin-left:5.5rem
+	}
+}
+
+#mobile-trigger {
+	 	position: fixed;
+    width: 100%;
+    background-color: rgb(155, 193, 188);
+		z-index:1000;
+	top:0;
+}
+
+.copyright {
+	color: white;
+}
+
+#footer-widgets .footer-widget-area {
+	border-bottom: none;
+}
+	
+#custom-header {
+	opacity:0;
+	position:absolute;
+}
+
+.calendar-head {
+	display:none;
+}
+
+.ecwd_calendar_view_dropdown {
+	display:none;
+}
+
+#footer-widgets {
+	background-image: url(https://mairie-la-chapelle-sous-chaux.gariontanguy.fr/wp-content/uploads/2020/12/village-entier.jpg);
+	background-repeat: no-repeat;
+	padding-top:20rem;
+}
+
+@media only screen and (max-width: 767px) {
+#footer-widgets {
+	background-image: url(https://mairie-la-chapelle-sous-chaux.gariontanguy.fr/wp-content/uploads/2020/12/village-entier-mobile-1.jpg) ;
+	background-repeat: no-repeat;
+	padding-top:10rem;
+}
+}
+
+#tophead.light {
+    background: #9bc1bc;
+}
+
+.site-info {
+    display: none;
+}
+
+#content .site-content .global-layout-left-sidebar{
+	padding:0;
+}
+
+
+
